@@ -1,5 +1,5 @@
 # ExpandingView
-A simple animated UIView written in **Swift** which expands into fullscreen when tapped.
+A simple animated UIView written in **Swift**, which expands to fullscreen when tapped and closes on swipe down gesture.
 
 *Usage in Storyboards is supported!*
 
