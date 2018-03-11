@@ -3,6 +3,6 @@ A simple animated UIView written in **Swift**, which expands to fullscreen when 
 
 *Usage in Storyboards is supported!*
 
-## Super class
+## UIView Inheritance
 
-Want to use this on a `UIImageView`? You change the super class to anything else which inherits form `UIView`, such as `UIImageView`.
+Want to use this on a `UIImageView`? You change the super class to anything which inherits from `UIView`, such as `UIImageView`.
